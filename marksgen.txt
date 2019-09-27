@@ -1,0 +1,5 @@
+fristclass
+top
+top
+top
+Can't compare these values: STRING_KIND NUMBER_KIND
